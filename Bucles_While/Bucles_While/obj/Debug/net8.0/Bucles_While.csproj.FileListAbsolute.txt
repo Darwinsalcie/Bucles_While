@@ -1,0 +1,14 @@
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Bucles_While\Bucles_While\Bucles_While\bin\Debug\net8.0\Bucles_While.exe
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Bucles_While\Bucles_While\Bucles_While\bin\Debug\net8.0\Bucles_While.deps.json
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Bucles_While\Bucles_While\Bucles_While\bin\Debug\net8.0\Bucles_While.runtimeconfig.json
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Bucles_While\Bucles_While\Bucles_While\bin\Debug\net8.0\Bucles_While.dll
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Bucles_While\Bucles_While\Bucles_While\bin\Debug\net8.0\Bucles_While.pdb
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Bucles_While\Bucles_While\Bucles_While\obj\Debug\net8.0\Bucles_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Bucles_While\Bucles_While\Bucles_While\obj\Debug\net8.0\Bucles_While.AssemblyInfoInputs.cache
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Bucles_While\Bucles_While\Bucles_While\obj\Debug\net8.0\Bucles_While.AssemblyInfo.cs
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Bucles_While\Bucles_While\Bucles_While\obj\Debug\net8.0\Bucles_While.csproj.CoreCompileInputs.cache
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Bucles_While\Bucles_While\Bucles_While\obj\Debug\net8.0\Bucles_While.dll
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Bucles_While\Bucles_While\Bucles_While\obj\Debug\net8.0\refint\Bucles_While.dll
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Bucles_While\Bucles_While\Bucles_While\obj\Debug\net8.0\Bucles_While.pdb
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Bucles_While\Bucles_While\Bucles_While\obj\Debug\net8.0\Bucles_While.genruntimeconfig.cache
+C:\Users\darwi\OneDrive - Universidad APEC - Académico\C#\ITLA\Bucles_While\Bucles_While\Bucles_While\obj\Debug\net8.0\ref\Bucles_While.dll
